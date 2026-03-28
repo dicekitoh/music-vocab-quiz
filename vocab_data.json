@@ -1,0 +1,1475 @@
+{
+  "version": 1,
+  "songs": [
+    {
+      "id": "jamiroquai__virtual-insanity",
+      "artist": "Jamiroquai",
+      "title": "Virtual Insanity",
+      "added_at": "2026-03-28T22:02:09.272240+09:00"
+    },
+    {
+      "id": "radiohead__creep",
+      "artist": "Radiohead",
+      "title": "Creep",
+      "added_at": "2026-03-28T22:02:45.106490+09:00"
+    }
+  ],
+  "words": [
+    {
+      "id": "w_001",
+      "word": "always",
+      "meaning_ja": "いつも、常に",
+      "pos": "adverb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Cos' we can always take but never give"
+    },
+    {
+      "id": "w_002",
+      "word": "another",
+      "meaning_ja": "もう一つの、別の",
+      "pos": "adjective",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "To synthesize another strain"
+    },
+    {
+      "id": "w_003",
+      "word": "bad",
+      "meaning_ja": "悪い",
+      "pos": "adjective",
+      "genre": "emotion",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Oh, there's nothing so bad."
+    },
+    {
+      "id": "w_004",
+      "word": "begin",
+      "meaning_ja": "始める",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Hard to know where to begin"
+    },
+    {
+      "id": "w_005",
+      "word": "big",
+      "meaning_ja": "大きい",
+      "pos": "adjective",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "When things are big that should be small"
+    },
+    {
+      "id": "w_006",
+      "word": "breathe",
+      "meaning_ja": "呼吸する",
+      "pos": "verb",
+      "genre": "body",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "I can't breathe"
+    },
+    {
+      "id": "w_007",
+      "word": "by",
+      "meaning_ja": "～によって、～のそばに",
+      "pos": "preposition",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Always seem to, be govern'd by this love we have"
+    },
+    {
+      "id": "w_008",
+      "word": "can't",
+      "meaning_ja": "～できない",
+      "pos": "phrase",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "I can't see"
+    },
+    {
+      "id": "w_009",
+      "word": "change",
+      "meaning_ja": "変える、変化",
+      "pos": "verb",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And nothing's going to change the way we live"
+    },
+    {
+      "id": "w_010",
+      "word": "changing",
+      "meaning_ja": "変化していること、変化すること",
+      "pos": "noun",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And now that things are changing for the worse,"
+    },
+    {
+      "id": "w_011",
+      "word": "child",
+      "meaning_ja": "子供",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Of her child"
+    },
+    {
+      "id": "w_012",
+      "word": "choose",
+      "meaning_ja": "選ぶ",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And now every mother, can choose the colour"
+    },
+    {
+      "id": "w_013",
+      "word": "colour",
+      "meaning_ja": "色",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And now every mother, can choose the colour"
+    },
+    {
+      "id": "w_014",
+      "word": "cos",
+      "meaning_ja": "なぜなら（becauseの略）",
+      "pos": "conjunction",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Cos' we can always take but never give"
+    },
+    {
+      "id": "w_015",
+      "word": "crazy",
+      "meaning_ja": "狂った、夢中な",
+      "pos": "adjective",
+      "genre": "emotion",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "See, its a crazy world we're living in"
+    },
+    {
+      "id": "w_016",
+      "word": "doing",
+      "meaning_ja": "すること、行っている",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity",
+        "radiohead__creep"
+      ],
+      "example_line": "Who can tell what magic spells we'll be doing for us"
+    },
+    {
+      "id": "w_017",
+      "word": "earthly",
+      "meaning_ja": "地上の、この世の",
+      "pos": "adjective",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "If I could slip the sickly ties that earthly man has made"
+    },
+    {
+      "id": "w_018",
+      "word": "eat",
+      "meaning_ja": "食べる",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "It's a wonder man can eat at all"
+    },
+    {
+      "id": "w_019",
+      "word": "every",
+      "meaning_ja": "あらゆる、すべての",
+      "pos": "adjective",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And now every mother, can choose the colour"
+    },
+    {
+      "id": "w_020",
+      "word": "forget",
+      "meaning_ja": "忘れる",
+      "pos": "verb",
+      "genre": "emotion",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Forget your virtual reality"
+    },
+    {
+      "id": "w_021",
+      "word": "found",
+      "meaning_ja": "見つけた（findの過去形）",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "I think it's time I found a new religion"
+    },
+    {
+      "id": "w_022",
+      "word": "future",
+      "meaning_ja": "未来",
+      "pos": "noun",
+      "genre": "time",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Future's made of virtual insanity now"
+    },
+    {
+      "id": "w_023",
+      "word": "futures",
+      "meaning_ja": "未来（複数）",
+      "pos": "noun",
+      "genre": "time",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Futures that we have to be told."
+    },
+    {
+      "id": "w_024",
+      "word": "give",
+      "meaning_ja": "与える",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Cos' we can always take but never give"
+    },
+    {
+      "id": "w_025",
+      "word": "giving",
+      "meaning_ja": "与えること、与えている",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And I'm giving all my love to this world"
+    },
+    {
+      "id": "w_026",
+      "word": "go",
+      "meaning_ja": "行く",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And I can't go on"
+    },
+    {
+      "id": "w_027",
+      "word": "going",
+      "meaning_ja": "行くこと、行っている",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And nothing's going to change the way we live"
+    },
+    {
+      "id": "w_028",
+      "word": "govern'd",
+      "meaning_ja": "統治された、支配された（governedの古形）",
+      "pos": "verb",
+      "genre": "social",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Always seem to, be govern'd by this love we have"
+    },
+    {
+      "id": "w_029",
+      "word": "half",
+      "meaning_ja": "半分",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And I just can't see that half of us immersed in sin"
+    },
+    {
+      "id": "w_030",
+      "word": "hard",
+      "meaning_ja": "難しい、硬い、一生懸命に",
+      "pos": "adjective",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Hard to know where to begin"
+    },
+    {
+      "id": "w_031",
+      "word": "i'm",
+      "meaning_ja": "私は～です（I amの短縮形）",
+      "pos": "phrase",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity",
+        "radiohead__creep"
+      ],
+      "example_line": "And I'm giving all my love to this world"
+    },
+    {
+      "id": "w_032",
+      "word": "immersed",
+      "meaning_ja": "没頭した、浸された",
+      "pos": "adjective",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And I just can't see that half of us immersed in sin"
+    },
+    {
+      "id": "w_033",
+      "word": "insane",
+      "meaning_ja": "狂気の、正気でない",
+      "pos": "adjective",
+      "genre": "emotion",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Waoh - it's so insane"
+    },
+    {
+      "id": "w_034",
+      "word": "insanity",
+      "meaning_ja": "狂気、精神異常",
+      "pos": "noun",
+      "genre": "emotion",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Future's made of virtual insanity now"
+    },
+    {
+      "id": "w_035",
+      "word": "keep",
+      "meaning_ja": "保つ、維持する",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Cos I just, I just can't keep going on, it was virtual."
+    },
+    {
+      "id": "w_036",
+      "word": "know",
+      "meaning_ja": "知る",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Hard to know where to begin"
+    },
+    {
+      "id": "w_037",
+      "word": "left",
+      "meaning_ja": "去った（leaveの過去形）、左",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "There's nothing left to do but pray"
+    },
+    {
+      "id": "w_038",
+      "word": "let",
+      "meaning_ja": "～させる、許可する",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Oh yeah, what we're living in (let me tell ya)"
+    },
+    {
+      "id": "w_039",
+      "word": "live",
+      "meaning_ja": "生きる、住む",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And nothing's going to change the way we live"
+    },
+    {
+      "id": "w_040",
+      "word": "livin",
+      "meaning_ja": "生きること（livingの短縮形・口語）",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Of this virtual insanity, we're livin in."
+    },
+    {
+      "id": "w_041",
+      "word": "living",
+      "meaning_ja": "生きること、生活",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Oh yeah, what we're living in (let me tell ya)"
+    },
+    {
+      "id": "w_042",
+      "word": "love",
+      "meaning_ja": "愛、愛する",
+      "pos": "noun",
+      "genre": "emotion",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And I'm giving all my love to this world"
+    },
+    {
+      "id": "w_043",
+      "word": "made",
+      "meaning_ja": "作った（makeの過去形）",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Future's made of virtual insanity now"
+    },
+    {
+      "id": "w_044",
+      "word": "magic",
+      "meaning_ja": "魔法",
+      "pos": "noun",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Who can tell what magic spells we'll be doing for us"
+    },
+    {
+      "id": "w_045",
+      "word": "man",
+      "meaning_ja": "男性、人間",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "It's a wonder man can eat at all"
+    },
+    {
+      "id": "w_046",
+      "word": "mess",
+      "meaning_ja": "散らかった状態、混乱",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And I'm thinking what a mess we're in"
+    },
+    {
+      "id": "w_047",
+      "word": "more",
+      "meaning_ja": "もっと、より多くの",
+      "pos": "adverb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "No more will we be"
+    },
+    {
+      "id": "w_048",
+      "word": "mother",
+      "meaning_ja": "母",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And now every mother, can choose the colour"
+    },
+    {
+      "id": "w_049",
+      "word": "nature",
+      "meaning_ja": "自然",
+      "pos": "noun",
+      "genre": "nature",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "That's not nature's way"
+    },
+    {
+      "id": "w_050",
+      "word": "never",
+      "meaning_ja": "決して～ない",
+      "pos": "adverb",
+      "genre": "time",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Cos' we can always take but never give"
+    },
+    {
+      "id": "w_051",
+      "word": "new",
+      "meaning_ja": "新しい",
+      "pos": "adjective",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "For useless, twisting, our new technology"
+    },
+    {
+      "id": "w_052",
+      "word": "nothing",
+      "meaning_ja": "何も～ない",
+      "pos": "pronoun",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And nothing's going to change the way we live"
+    },
+    {
+      "id": "w_053",
+      "word": "now",
+      "meaning_ja": "今",
+      "pos": "adverb",
+      "genre": "time",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And now that things are changing for the worse,"
+    },
+    {
+      "id": "w_054",
+      "word": "oh",
+      "meaning_ja": "ああ、おや",
+      "pos": "interjection",
+      "genre": "emotion",
+      "songs": [
+        "jamiroquai__virtual-insanity",
+        "radiohead__creep"
+      ],
+      "example_line": "Oh yeah, what we're living in (let me tell ya)"
+    },
+    {
+      "id": "w_055",
+      "word": "only",
+      "meaning_ja": "唯一の、ただ～だけ",
+      "pos": "adverb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Only to be told"
+    },
+    {
+      "id": "w_056",
+      "word": "pray",
+      "meaning_ja": "祈る",
+      "pos": "verb",
+      "genre": "social",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "There's nothing left to do but pray"
+    },
+    {
+      "id": "w_057",
+      "word": "reality",
+      "meaning_ja": "現実",
+      "pos": "noun",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Forget your virtual reality"
+    },
+    {
+      "id": "w_058",
+      "word": "religion",
+      "meaning_ja": "宗教",
+      "pos": "noun",
+      "genre": "social",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "I think it's time I found a new religion"
+    },
+    {
+      "id": "w_059",
+      "word": "said",
+      "meaning_ja": "言った（sayの過去形）",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Well that's what they said yesterday"
+    },
+    {
+      "id": "w_060",
+      "word": "same",
+      "meaning_ja": "同じ",
+      "pos": "adjective",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Things, will never be the same."
+    },
+    {
+      "id": "w_061",
+      "word": "see",
+      "meaning_ja": "見る",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "I can't see"
+    },
+    {
+      "id": "w_062",
+      "word": "seem",
+      "meaning_ja": "～のように見える、思える",
+      "pos": "verb",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Always seem to, be govern'd by this love we have"
+    },
+    {
+      "id": "w_063",
+      "word": "sickly",
+      "meaning_ja": "病弱な、気分が悪そうな",
+      "pos": "adjective",
+      "genre": "body",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "If I could slip the sickly ties that earthly man has made"
+    },
+    {
+      "id": "w_064",
+      "word": "sin",
+      "meaning_ja": "罪",
+      "pos": "noun",
+      "genre": "social",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And I just can't see that half of us immersed in sin"
+    },
+    {
+      "id": "w_065",
+      "word": "slip",
+      "meaning_ja": "滑る、そっと抜ける",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "If I could slip the sickly ties that earthly man has made"
+    },
+    {
+      "id": "w_066",
+      "word": "small",
+      "meaning_ja": "小さい",
+      "pos": "adjective",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "When things are big that should be small"
+    },
+    {
+      "id": "w_067",
+      "word": "something",
+      "meaning_ja": "何か",
+      "pos": "pronoun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "There's something in these"
+    },
+    {
+      "id": "w_068",
+      "word": "sound",
+      "meaning_ja": "音、聞こえる",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Oh, now there is no sound - for we all live underground"
+    },
+    {
+      "id": "w_069",
+      "word": "spells",
+      "meaning_ja": "呪文、魔法（複数）",
+      "pos": "noun",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Who can tell what magic spells we'll be doing for us"
+    },
+    {
+      "id": "w_070",
+      "word": "strain",
+      "meaning_ja": "緊張、負担、無理をする",
+      "pos": "noun",
+      "genre": "body",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "To synthesize another strain"
+    },
+    {
+      "id": "w_071",
+      "word": "synthesize",
+      "meaning_ja": "合成する",
+      "pos": "verb",
+      "genre": "academic",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "To synthesize another strain"
+    },
+    {
+      "id": "w_072",
+      "word": "take",
+      "meaning_ja": "取る、連れて行く",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Cos' we can always take but never give"
+    },
+    {
+      "id": "w_073",
+      "word": "technology",
+      "meaning_ja": "技術、テクノロジー",
+      "pos": "noun",
+      "genre": "academic",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "For useless, twisting, our new technology"
+    },
+    {
+      "id": "w_074",
+      "word": "tell",
+      "meaning_ja": "話す、教える",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Oh yeah, what we're living in (let me tell ya)"
+    },
+    {
+      "id": "w_075",
+      "word": "things",
+      "meaning_ja": "物事、こと（複数）",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "When things are big that should be small"
+    },
+    {
+      "id": "w_076",
+      "word": "think",
+      "meaning_ja": "考える",
+      "pos": "verb",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "I think it's time I found a new religion"
+    },
+    {
+      "id": "w_077",
+      "word": "thinking",
+      "meaning_ja": "思考、考えること",
+      "pos": "noun",
+      "genre": "abstract",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And I'm thinking what a mess we're in"
+    },
+    {
+      "id": "w_078",
+      "word": "ties",
+      "meaning_ja": "繋がり、結びつき（複数）",
+      "pos": "noun",
+      "genre": "social",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "If I could slip the sickly ties that earthly man has made"
+    },
+    {
+      "id": "w_079",
+      "word": "time",
+      "meaning_ja": "時間",
+      "pos": "noun",
+      "genre": "time",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "I think it's time I found a new religion"
+    },
+    {
+      "id": "w_080",
+      "word": "told",
+      "meaning_ja": "話した、教えた（tellの過去形）",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Only to be told"
+    },
+    {
+      "id": "w_081",
+      "word": "twisting",
+      "meaning_ja": "ねじること、歪めること",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "For useless, twisting, our new technology"
+    },
+    {
+      "id": "w_082",
+      "word": "underground",
+      "meaning_ja": "地下の、秘密の",
+      "pos": "adjective",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Oh, now there is no sound - for we all live underground"
+    },
+    {
+      "id": "w_083",
+      "word": "useless",
+      "meaning_ja": "役に立たない",
+      "pos": "adjective",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "For useless, twisting, our new technology"
+    },
+    {
+      "id": "w_084",
+      "word": "virtual",
+      "meaning_ja": "仮想の",
+      "pos": "adjective",
+      "genre": "academic",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Future's made of virtual insanity now"
+    },
+    {
+      "id": "w_085",
+      "word": "waoh",
+      "meaning_ja": "うわー、おい（驚きや呼びかけ）",
+      "pos": "interjection",
+      "genre": "emotion",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Waoh - it's so insane"
+    },
+    {
+      "id": "w_086",
+      "word": "way",
+      "meaning_ja": "道、方法",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And nothing's going to change the way we live"
+    },
+    {
+      "id": "w_087",
+      "word": "we'll",
+      "meaning_ja": "私たちは～だろう（we willの短縮形）",
+      "pos": "phrase",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Who can tell what magic spells we'll be doing for us"
+    },
+    {
+      "id": "w_088",
+      "word": "we're",
+      "meaning_ja": "私たちは～だ（we areの短縮形）",
+      "pos": "phrase",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Oh yeah, what we're living in (let me tell ya)"
+    },
+    {
+      "id": "w_089",
+      "word": "well",
+      "meaning_ja": "よく、健康な、井戸",
+      "pos": "adverb",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Well that's what they said yesterday"
+    },
+    {
+      "id": "w_090",
+      "word": "while",
+      "meaning_ja": "～の間、～する一方で",
+      "pos": "conjunction",
+      "genre": "time",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "While we're livin' in oh, oh virtual insanity"
+    },
+    {
+      "id": "w_091",
+      "word": "wonder",
+      "meaning_ja": "不思議に思う、驚き",
+      "pos": "verb",
+      "genre": "emotion",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "It's a wonder man can eat at all"
+    },
+    {
+      "id": "w_092",
+      "word": "world",
+      "meaning_ja": "世界",
+      "pos": "noun",
+      "genre": "nature",
+      "songs": [
+        "jamiroquai__virtual-insanity",
+        "radiohead__creep"
+      ],
+      "example_line": "And I'm giving all my love to this world"
+    },
+    {
+      "id": "w_093",
+      "word": "worse",
+      "meaning_ja": "より悪い（badの比較級）",
+      "pos": "adjective",
+      "genre": "emotion",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "And now that things are changing for the worse,"
+    },
+    {
+      "id": "w_094",
+      "word": "ya",
+      "meaning_ja": "あなた（youの口語・俗語）",
+      "pos": "pronoun",
+      "genre": "slang",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Oh yeah, what we're living in (let me tell ya)"
+    },
+    {
+      "id": "w_095",
+      "word": "yeah",
+      "meaning_ja": "うん、はい（yesの口語）",
+      "pos": "interjection",
+      "genre": "daily_life",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Oh yeah, what we're living in (let me tell ya)"
+    },
+    {
+      "id": "w_096",
+      "word": "yesterday",
+      "meaning_ja": "昨日",
+      "pos": "noun",
+      "genre": "time",
+      "songs": [
+        "jamiroquai__virtual-insanity"
+      ],
+      "example_line": "Well that's what they said yesterday"
+    },
+    {
+      "id": "w_097",
+      "word": "angel",
+      "meaning_ja": "天使",
+      "pos": "noun",
+      "genre": "abstract",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "You're just like an angel"
+    },
+    {
+      "id": "w_098",
+      "word": "around",
+      "meaning_ja": "周囲に、およそ",
+      "pos": "adverb",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "When I'm not around"
+    },
+    {
+      "id": "w_099",
+      "word": "beautiful",
+      "meaning_ja": "美しい",
+      "pos": "adjective",
+      "genre": "emotion",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "In a beautiful world"
+    },
+    {
+      "id": "w_100",
+      "word": "before",
+      "meaning_ja": "～の前に、以前に",
+      "pos": "preposition",
+      "genre": "time",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "When you were here before"
+    },
+    {
+      "id": "w_101",
+      "word": "belong",
+      "meaning_ja": "所属する",
+      "pos": "verb",
+      "genre": "social",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I don't belong here"
+    },
+    {
+      "id": "w_102",
+      "word": "body",
+      "meaning_ja": "体、身体",
+      "pos": "noun",
+      "genre": "body",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I want a perfect body"
+    },
+    {
+      "id": "w_103",
+      "word": "care",
+      "meaning_ja": "気遣う、世話",
+      "pos": "verb",
+      "genre": "emotion",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I don't care if it hurts"
+    },
+    {
+      "id": "w_104",
+      "word": "control",
+      "meaning_ja": "制御する、支配",
+      "pos": "verb",
+      "genre": "abstract",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I wanna have control"
+    },
+    {
+      "id": "w_105",
+      "word": "couldn't",
+      "meaning_ja": "～できなかった (could notの短縮形)",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "Couldn't look you in the eye"
+    },
+    {
+      "id": "w_106",
+      "word": "creep",
+      "meaning_ja": "はい回る、忍び寄る",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "But I'm a creep, I'm a weirdo"
+    },
+    {
+      "id": "w_107",
+      "word": "cry",
+      "meaning_ja": "泣く、叫ぶ",
+      "pos": "verb",
+      "genre": "emotion",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "Your skin makes me cry"
+    },
+    {
+      "id": "w_108",
+      "word": "don't",
+      "meaning_ja": "～するな (do notの短縮形)",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I don't belong here"
+    },
+    {
+      "id": "w_109",
+      "word": "door",
+      "meaning_ja": "ドア、扉",
+      "pos": "noun",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "She's running out the door"
+    },
+    {
+      "id": "w_110",
+      "word": "eye",
+      "meaning_ja": "目",
+      "pos": "noun",
+      "genre": "body",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "Couldn't look you in the eye"
+    },
+    {
+      "id": "w_111",
+      "word": "feather",
+      "meaning_ja": "羽、羽毛",
+      "pos": "noun",
+      "genre": "nature",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "You float like a feather"
+    },
+    {
+      "id": "w_112",
+      "word": "float",
+      "meaning_ja": "浮かぶ、漂う",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "You float like a feather"
+    },
+    {
+      "id": "w_113",
+      "word": "fuckin",
+      "meaning_ja": "クソ、すごく (強調)",
+      "pos": "adverb",
+      "genre": "slang",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "You're so fuckin' special"
+    },
+    {
+      "id": "w_114",
+      "word": "happy",
+      "meaning_ja": "幸せな、嬉しい",
+      "pos": "adjective",
+      "genre": "emotion",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "Whatever makes you happy"
+    },
+    {
+      "id": "w_115",
+      "word": "hell",
+      "meaning_ja": "地獄、大変な状況",
+      "pos": "noun",
+      "genre": "abstract",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "What the hell am I doing here?"
+    },
+    {
+      "id": "w_116",
+      "word": "hurts",
+      "meaning_ja": "痛む",
+      "pos": "verb",
+      "genre": "body",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I don't care if it hurts"
+    },
+    {
+      "id": "w_117",
+      "word": "like",
+      "meaning_ja": "好きである",
+      "pos": "verb",
+      "genre": "emotion",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "You're just like an angel"
+    },
+    {
+      "id": "w_118",
+      "word": "look",
+      "meaning_ja": "見る、見える",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "Couldn't look you in the eye"
+    },
+    {
+      "id": "w_119",
+      "word": "makes",
+      "meaning_ja": "作る、～させる",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "Your skin makes me cry"
+    },
+    {
+      "id": "w_120",
+      "word": "notice",
+      "meaning_ja": "気づく",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I want you to notice"
+    },
+    {
+      "id": "w_121",
+      "word": "perfect",
+      "meaning_ja": "完璧な",
+      "pos": "adjective",
+      "genre": "abstract",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I want a perfect body"
+    },
+    {
+      "id": "w_122",
+      "word": "run",
+      "meaning_ja": "走る",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "She run, run, run, run"
+    },
+    {
+      "id": "w_123",
+      "word": "running",
+      "meaning_ja": "走っていること",
+      "pos": "verb",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "She's running out the door"
+    },
+    {
+      "id": "w_124",
+      "word": "skin",
+      "meaning_ja": "皮膚、肌",
+      "pos": "noun",
+      "genre": "body",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "Your skin makes me cry"
+    },
+    {
+      "id": "w_125",
+      "word": "soul",
+      "meaning_ja": "魂、精神",
+      "pos": "noun",
+      "genre": "abstract",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I want a perfect soul"
+    },
+    {
+      "id": "w_126",
+      "word": "special",
+      "meaning_ja": "特別な",
+      "pos": "adjective",
+      "genre": "abstract",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I wish I was special"
+    },
+    {
+      "id": "w_127",
+      "word": "wanna",
+      "meaning_ja": "～したい (want toの短縮形)",
+      "pos": "phrase",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I wanna have control"
+    },
+    {
+      "id": "w_128",
+      "word": "want",
+      "meaning_ja": "欲しい、～したい",
+      "pos": "verb",
+      "genre": "emotion",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I want a perfect body"
+    },
+    {
+      "id": "w_129",
+      "word": "weirdo",
+      "meaning_ja": "変なやつ、奇人",
+      "pos": "noun",
+      "genre": "social",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "But I'm a creep, I'm a weirdo"
+    },
+    {
+      "id": "w_130",
+      "word": "whatever",
+      "meaning_ja": "何でも、なんであれ",
+      "pos": "pronoun",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "Whatever makes you happy"
+    },
+    {
+      "id": "w_131",
+      "word": "wish",
+      "meaning_ja": "願う、願い",
+      "pos": "verb",
+      "genre": "emotion",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "I wish I was special"
+    },
+    {
+      "id": "w_132",
+      "word": "you're",
+      "meaning_ja": "あなたは～です (you areの短縮形)",
+      "pos": "phrase",
+      "genre": "daily_life",
+      "songs": [
+        "radiohead__creep"
+      ],
+      "example_line": "You're just like an angel"
+    }
+  ]
+}
